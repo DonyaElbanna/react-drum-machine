@@ -12,6 +12,7 @@ function Volume({ volume, handleVolume, power }) {
         value={volume}
         onChange={handleVolume}
         disabled={!power}
+        title="volume"
       />
     </div>
   );

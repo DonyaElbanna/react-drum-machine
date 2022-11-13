@@ -1,5 +1,5 @@
 import "./App.css";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Drumpad } from "./components/Drumpad";
 import Power from "./components/Power";
 import Volume from "./components/Volume";

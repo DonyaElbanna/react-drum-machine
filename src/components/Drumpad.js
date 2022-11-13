@@ -16,7 +16,10 @@ export const Drumpad = ({ audios, playSound, power }) => {
         : audios.map((audio) => (
             <Key
               key={audio.key}
-              audio={{ ...audio, src: "/" }}
+              audio={{
+                ...audio,
+                src: "https://ia800206.us.archive.org/16/items/SilentRingtone/silence_64kb.mp3",
+              }}
               playSound={playSound}
               power={power}
             />

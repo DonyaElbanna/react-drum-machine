@@ -13,7 +13,7 @@ export const Key = ({
   };
   useEffect(() => {
     document.addEventListener("keydown", handleKeydown);
-  }, []);
+  });
 
   return (
     <button id={keyCode} onClick={() => playSound(key, name)} disabled={!power}>
