@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DonyaElbanna/react-drum-machine/static/css/main.438dfa24.css",
-    "main.js": "/DonyaElbanna/react-drum-machine/static/js/main.3f7a24a3.js",
-    "static/js/787.c419f7a1.chunk.js": "/DonyaElbanna/react-drum-machine/static/js/787.c419f7a1.chunk.js",
-    "static/media/bkg.webp": "/DonyaElbanna/react-drum-machine/static/media/bkg.68f83a9e3ff008d35925.webp",
-    "index.html": "/DonyaElbanna/react-drum-machine/index.html",
-    "main.438dfa24.css.map": "/DonyaElbanna/react-drum-machine/static/css/main.438dfa24.css.map",
-    "main.3f7a24a3.js.map": "/DonyaElbanna/react-drum-machine/static/js/main.3f7a24a3.js.map",
-    "787.c419f7a1.chunk.js.map": "/DonyaElbanna/react-drum-machine/static/js/787.c419f7a1.chunk.js.map"
+    "main.css": "/react-drum-machine/static/css/main.e715ed4a.css",
+    "main.js": "/react-drum-machine/static/js/main.db4267eb.js",
+    "static/js/787.c419f7a1.chunk.js": "/react-drum-machine/static/js/787.c419f7a1.chunk.js",
+    "static/media/bkg.webp": "/react-drum-machine/static/media/bkg.68f83a9e3ff008d35925.webp",
+    "index.html": "/react-drum-machine/index.html",
+    "main.e715ed4a.css.map": "/react-drum-machine/static/css/main.e715ed4a.css.map",
+    "main.db4267eb.js.map": "/react-drum-machine/static/js/main.db4267eb.js.map",
+    "787.c419f7a1.chunk.js.map": "/react-drum-machine/static/js/787.c419f7a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.438dfa24.css",
-    "static/js/main.3f7a24a3.js"
+    "static/css/main.e715ed4a.css",
+    "static/js/main.db4267eb.js"
   ]
 }
