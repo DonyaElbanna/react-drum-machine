@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+A drum machine app with volume control, keyboard functionality and an on/off button.
+It's one of the projects for the [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) course on [freecodecamp](https://www.freecodecamp.org/)
+
+## Technologies used
+- [React](https://reactjs.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+
+## Demo
+
+#### Drums ON
+![Drums ON](/drum-on.PNG)
+
+#### Drums OFF
+![Drums OFF](/drum-off.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
